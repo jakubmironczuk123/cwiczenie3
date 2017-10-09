@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507555667 source:d:\sem1\cwiczenie3\cwiczonko3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdexcept>
+	<sstream>
+
